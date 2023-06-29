@@ -1,6 +1,8 @@
 # [제로베이스 자바스크립트 미션과제] 3. 별점  
 
-![2312](https://user-images.githubusercontent.com/127499117/236470342-4d28b0c3-48ca-404f-88d9-078f1f16afa3.gif)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/127499117/236470342-4d28b0c3-48ca-404f-88d9-078f1f16afa3.gif" alt="2312">
+</p>
 
 
 > STAR DOM을 생성할 때, 앞 전에 배운 dataset을 사용하여, id의 값을 index로 부여해 주었는데, DOM의 length로도 접근할 수 있을 것 같다는 아이디어가 전부 구현하고 생각났다!.. 그래도 dataset도 한 번 더 복습해 볼 수 있는 시간이었고... 내게 너무 그저 '생소'해서 시간을 많이 잡아먹었던 custom 이벤트도 공부하고 나서 적용해 보니... 별거? 아니었는데.. 많은 시간을 들인 거 같아서 조금 허무했다.(웃음) STAR DOM에 전부 onclick 이벤트를 주지 않고 부모 요소에 이벤트를 한 번만 주는 이벤트 위임을 사용하여 구현하였다. 
